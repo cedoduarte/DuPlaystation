@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>psx.png</file>
+        <file>psx2.png</file>
+        <file>play.png</file>
+    </qresource>
+</RCC>
